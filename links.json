@@ -14,6 +14,11 @@
     "memo": "素材の解凍ツール(7ZIP解凍サイト)",
     "url": "https://kurenaivoid.github.io/access/KURENAIVOID-irimu-7z-e/index.html"
   },
+  "l5g5": {
+    "created": "2026-11-21",
+    "memo": "イリムPC版β配布用",
+    "url": "https://github.com/kurenaivoid/kurenai-system/releases/download/%E3%82%A4%E3%83%AA%E3%83%A0PC%E7%89%88%CE%B2%E9%85%8D%E5%B8%83%E7%94%A8/PC.7z"
+  },
   "nkv4": {
     "created": "2026-10-17",
     "memo": "",
